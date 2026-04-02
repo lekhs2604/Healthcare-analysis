@@ -1,7 +1,6 @@
 Technical Workflow
 1. Data Cleaning & Processing (Python/Pandas)
  Executed advanced Imputation strategies to handle missing values in critical fields like Patient Satisfaction Score.
- Standardized disparate date formats into ISO 8601 (YYYY-MM-DD) for database compatibility.
  Utilized Min-Max Scaling to normalize satisfaction metrics onto a uniform 1–5 scale, ensuring statistical consistency.
 
 2. Relational Database Management (SQL)
