@@ -5,7 +5,7 @@ Technical Workflow
 
 2. Relational Database Management (SQL)
  Designed and implemented a schema with optimized data types (VARCHAR, DATE, DECIMAL) to ensure data integrity.
- Developed complex queries using Window Functions (RANK(), DENSE_RANK()) and CTEs to identify the top-performing departments.
+ Developed complex queries using Window Functions (RANK(), DENSE_RANK()).
  Applied Aggregate Functions (AVG, SUM, COUNT) to extract insights into patient wait times and admission trends.
 
 3. Business Intelligence & Visualization (Power BI)
